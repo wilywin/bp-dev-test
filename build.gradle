@@ -55,6 +55,9 @@ test {
     useJUnitPlatform()
 }
 
+task stage(dependsOn: ['build', 'clean'])
+build.mustRunAfter clean
+
 // Added task to run the application
 bootRun {
     // Specify the main class of the application.
