@@ -12,10 +12,9 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "http://localhost:8080/testuser/api/characters",
+          "raw": "http://bp-se-test-cabcd9b246a5.herokuapp.com/testuser/api/characters",
           "protocol": "http",
-          "host": ["localhost"],
-          "port": "8080",
+          "host": ["bp-se-test-cabcd9b246a5.herokuapp.com"],
           "path": ["testuser", "api", "characters"]
         }
       },
@@ -35,10 +34,9 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "http://localhost:8080/testuser/api/characters/1",
+          "raw": "http://bp-se-test-cabcd9b246a5.herokuapp.com/testuser/api/characters/1",
           "protocol": "http",
-          "host": ["localhost"],
-          "port": "8080",
+          "host": ["bp-se-test-cabcd9b246a5.herokuapp.com"],
           "path": ["testuser", "api", "characters", "1"]
         }
       },
@@ -58,10 +56,9 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "http://localhost:8080/testuser/api/characters/999",
+          "raw": "http://bp-se-test-cabcd9b246a5.herokuapp.com/testuser/api/characters/999",
           "protocol": "http",
-          "host": ["localhost"],
-          "port": "8080",
+          "host": ["bp-se-test-cabcd9b246a5.herokuapp.com"],
           "path": ["testuser", "api", "characters", "999"]
         }
       },
@@ -87,10 +84,9 @@
           "raw": "{\n  \"name\": \"Iron Man\",\n  \"alterego\": \"Tony Stark\",\n  \"description\": \"Genius billionaire\",\n  \"powers\": [\"Armor\", \"Flight\"]\n}"
         },
         "url": {
-          "raw": "http://localhost:8080/testuser/api/characters",
+          "raw": "http://bp-se-test-cabcd9b246a5.herokuapp.com/testuser/api/characters",
           "protocol": "http",
-          "host": ["localhost"],
-          "port": "8080",
+          "host": ["bp-se-test-cabcd9b246a5.herokuapp.com"],
           "path": ["testuser", "api", "characters"]
         }
       },
@@ -116,10 +112,9 @@
           "raw": "{\n  \"name\": \"Iron Man\",\n  \"alterego\": \"Otro\",\n  \"description\": \"Otro\",\n  \"powers\": [\"Armor\"]\n}"
         },
         "url": {
-          "raw": "http://localhost:8080/testuser/api/characters",
+          "raw": "http://bp-se-test-cabcd9b246a5.herokuapp.com/testuser/api/characters",
           "protocol": "http",
-          "host": ["localhost"],
-          "port": "8080",
+          "host": ["bp-se-test-cabcd9b246a5.herokuapp.com"],
           "path": ["testuser", "api", "characters"]
         }
       },
@@ -145,10 +140,9 @@
           "raw": "{\n  \"name\": \"\",\n  \"alterego\": \"\",\n  \"description\": \"\",\n  \"powers\": []\n}"
         },
         "url": {
-          "raw": "http://localhost:8080/testuser/api/characters",
+          "raw": "http://bp-se-test-cabcd9b246a5.herokuapp.com/testuser/api/characters",
           "protocol": "http",
-          "host": ["localhost"],
-          "port": "8080",
+          "host": ["bp-se-test-cabcd9b246a5.herokuapp.com"],
           "path": ["testuser", "api", "characters"]
         }
       },
@@ -174,10 +168,9 @@
           "raw": "{\n  \"name\": \"Iron Man\",\n  \"alterego\": \"Tony Stark\",\n  \"description\": \"Updated description\",\n  \"powers\": [\"Armor\", \"Flight\"]\n}"
         },
         "url": {
-          "raw": "http://localhost:8080/testuser/api/characters/1",
+          "raw": "http://bp-se-test-cabcd9b246a5.herokuapp.com/testuser/api/characters/1",
           "protocol": "http",
-          "host": ["localhost"],
-          "port": "8080",
+          "host": ["bp-se-test-cabcd9b246a5.herokuapp.com"],
           "path": ["testuser", "api", "characters", "1"]
         }
       },
@@ -203,10 +196,9 @@
           "raw": "{\n  \"name\": \"Iron Man\",\n  \"alterego\": \"Tony Stark\",\n  \"description\": \"Updated description\",\n  \"powers\": [\"Armor\", \"Flight\"]\n}"
         },
         "url": {
-          "raw": "http://localhost:8080/testuser/api/characters/999",
+          "raw": "http://bp-se-test-cabcd9b246a5.herokuapp.com/testuser/api/characters/999",
           "protocol": "http",
-          "host": ["localhost"],
-          "port": "8080",
+          "host": ["bp-se-test-cabcd9b246a5.herokuapp.com"],
           "path": ["testuser", "api", "characters", "999"]
         }
       },
@@ -226,10 +218,9 @@
         "method": "DELETE",
         "header": [],
         "url": {
-          "raw": "http://localhost:8080/testuser/api/characters/1",
+          "raw": "http://bp-se-test-cabcd9b246a5.herokuapp.com/testuser/api/characters/1",
           "protocol": "http",
-          "host": ["localhost"],
-          "port": "8080",
+          "host": ["bp-se-test-cabcd9b246a5.herokuapp.com"],
           "path": ["testuser", "api", "characters", "1"]
         }
       },
@@ -249,10 +240,9 @@
         "method": "DELETE",
         "header": [],
         "url": {
-          "raw": "http://localhost:8080/testuser/api/characters/999",
+          "raw": "http://bp-se-test-cabcd9b246a5.herokuapp.com/testuser/api/characters/999",
           "protocol": "http",
-          "host": ["localhost"],
-          "port": "8080",
+          "host": ["bp-se-test-cabcd9b246a5.herokuapp.com"],
           "path": ["testuser", "api", "characters", "999"]
         }
       },
