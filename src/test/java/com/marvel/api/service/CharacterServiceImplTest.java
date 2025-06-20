@@ -1,5 +1,8 @@
 package com.marvel.api.service;
 
+import com.intuit.karate.Results;
+import com.intuit.karate.Runner;
+
 import com.marvel.api.dto.Character;
 import com.marvel.api.repository.CharacterRepository;
 import com.marvel.api.service.impl.CharacterServiceImpl;

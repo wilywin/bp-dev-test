@@ -23,6 +23,9 @@ repositories {
 }
 
 dependencies {
+
+    testImplementation 'com.intuit.karate:karate-junit5:1.4.1'
+
     // Use JUnit test framework.
     testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
 
